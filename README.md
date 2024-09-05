@@ -3,7 +3,7 @@
 A simple app that generates a QR code based on the entered text, with an option to download the QR code image.
 
 #### Link
-
+https://rt-qrcode.netlify.app/
 
 #### Screenshot
 ![QR Code App Screenshot](https://github.com/binokochumolvarghese/react-qr-code-generator/blob/main/public/qr-code-app-ss.png)
